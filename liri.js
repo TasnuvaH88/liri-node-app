@@ -59,7 +59,7 @@ function spotifythis(title) {
 }
 
 if (userInput[2] === "spotify-this-song") { 
-    spotifythis() 
+    spotifythis(title) 
 };
 
 var movieName = "";
